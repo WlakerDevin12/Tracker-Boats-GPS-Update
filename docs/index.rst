@@ -4,7 +4,8 @@ GPS Update for Tracker Boats: Revolutionizing Modern Boaters' Navigation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: 
+
+.. image:: corosgpsupdate.jpg
    :alt: Tracker Bots GPS
    :width: 350px
    :align: center
